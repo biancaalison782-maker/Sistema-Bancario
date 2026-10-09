@@ -1,0 +1,14 @@
+C:\Users\bianca.ajllusco\source\repos\SistemaBancarioOOO\SistemaBancarioOOO\bin\Debug\net8.0\SistemaBancarioOOO.exe
+C:\Users\bianca.ajllusco\source\repos\SistemaBancarioOOO\SistemaBancarioOOO\bin\Debug\net8.0\SistemaBancarioOOO.deps.json
+C:\Users\bianca.ajllusco\source\repos\SistemaBancarioOOO\SistemaBancarioOOO\bin\Debug\net8.0\SistemaBancarioOOO.runtimeconfig.json
+C:\Users\bianca.ajllusco\source\repos\SistemaBancarioOOO\SistemaBancarioOOO\bin\Debug\net8.0\SistemaBancarioOOO.dll
+C:\Users\bianca.ajllusco\source\repos\SistemaBancarioOOO\SistemaBancarioOOO\bin\Debug\net8.0\SistemaBancarioOOO.pdb
+C:\Users\bianca.ajllusco\source\repos\SistemaBancarioOOO\SistemaBancarioOOO\obj\Debug\net8.0\SistemaBancarioOOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bianca.ajllusco\source\repos\SistemaBancarioOOO\SistemaBancarioOOO\obj\Debug\net8.0\SistemaBancarioOOO.AssemblyInfoInputs.cache
+C:\Users\bianca.ajllusco\source\repos\SistemaBancarioOOO\SistemaBancarioOOO\obj\Debug\net8.0\SistemaBancarioOOO.AssemblyInfo.cs
+C:\Users\bianca.ajllusco\source\repos\SistemaBancarioOOO\SistemaBancarioOOO\obj\Debug\net8.0\SistemaBancarioOOO.csproj.CoreCompileInputs.cache
+C:\Users\bianca.ajllusco\source\repos\SistemaBancarioOOO\SistemaBancarioOOO\obj\Debug\net8.0\SistemaBancarioOOO.dll
+C:\Users\bianca.ajllusco\source\repos\SistemaBancarioOOO\SistemaBancarioOOO\obj\Debug\net8.0\refint\SistemaBancarioOOO.dll
+C:\Users\bianca.ajllusco\source\repos\SistemaBancarioOOO\SistemaBancarioOOO\obj\Debug\net8.0\SistemaBancarioOOO.pdb
+C:\Users\bianca.ajllusco\source\repos\SistemaBancarioOOO\SistemaBancarioOOO\obj\Debug\net8.0\SistemaBancarioOOO.genruntimeconfig.cache
+C:\Users\bianca.ajllusco\source\repos\SistemaBancarioOOO\SistemaBancarioOOO\obj\Debug\net8.0\ref\SistemaBancarioOOO.dll
